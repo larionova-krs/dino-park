@@ -1,0 +1,9 @@
+
+        R                       
+       RRR                      
+    R   R   R      GG  BBB      
+   RRRRRRRRRRR      G           
+    R   R   R       GGGG  BBB   
+       RRR          GGGGG       
+        R           GPGP  BBB   
+                                
